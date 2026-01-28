@@ -39,13 +39,13 @@ I specialize in AI evaluation, LLM infrastructure, and quality assurance for pro
 
 ---
 
-### � Weekly Coding Stats
+### 📊 Weekly Coding Stats
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
 
 ---
 
-## � GitHub Metrics
+## 📈 GitHub Metrics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=levizwang&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levizwang&layout=compact&theme=transparent)
