@@ -40,8 +40,8 @@ I specialize in AI evaluation, LLM infrastructure, and quality assurance for pro
 ---
 
 ### 📊 Weekly Coding Stats
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
