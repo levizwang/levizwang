@@ -16,8 +16,10 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # 以下是可选配置，可以自定义展示效果
+          SHOW_TITLE: True
+          SECTION_NAME: waka
           BLOCKS: ⏳
           TIME_RANGE: last_7_days
-          SHOW_PROFILE_VIEWS: False
-          SHOW_TITLE: True
+          LANG_COUNT: 10
+          SHOW_TIME: True
+          SHOW_TOTAL: True
