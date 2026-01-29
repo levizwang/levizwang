@@ -19,7 +19,9 @@ jobs:
           SHOW_TITLE: True
           SECTION_NAME: waka
           BLOCKS: ⏳
-          TIME_RANGE: last_7_days
+          # last_7_days
+          # all_time
+          TIME_RANGE: last_30_days
           LANG_COUNT: 10
           SHOW_TIME: True
           SHOW_TOTAL: True

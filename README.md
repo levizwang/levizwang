@@ -63,7 +63,4 @@ Makefile     11 mins         ▒░░░░░░░░░░░░░░░░
 
 ---
 
-## 📈 GitHub Metrics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=levizwang&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levizwang&layout=compact&theme=transparent)
+![WakaTime Stats](https://metrics.lecoq.io/levizwang?base=0&plugin_wakatime=1&plugin_wakatime_token=${{ secrets.WAKATIME_API_KEY }}&plugin_wakatime_sections=languages,editors,os)
