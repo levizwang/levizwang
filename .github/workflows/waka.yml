@@ -1,0 +1,23 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # 每天 UTC 时间 00:00 自动更新（北京时间上午 8 点）
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动点击运行
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 赋予 Action 修改你文件的权限
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # 以下是可选配置，可以自定义展示效果
+          BLOCKS: ⏳
+          TIME_RANGE: last_7_days
+          SHOW_PROFILE_VIEWS: False
+          SHOW_TITLE: True
