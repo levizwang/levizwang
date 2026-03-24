@@ -34,7 +34,7 @@ I specialize in AI evaluation, LLM infrastructure, and quality assurance for pro
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2026 - To: 21 March 2026
+From: 20 February 2026 - To: 22 March 2026
 
 Total Time: 67 hrs 14 mins
 
