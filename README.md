@@ -34,20 +34,20 @@ I specialize in AI evaluation, LLM infrastructure, and quality assurance for pro
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 March 2026 - To: 15 April 2026
+From: 17 March 2026 - To: 16 April 2026
 
-Total Time: 47 hrs 47 mins
+Total Time: 51 hrs 17 mins
 
-JSON          23 hrs 1 min          ███████████▒░░░░░░░░░░░░░   45.84 %
-Python        8 hrs 23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
-Markdown      6 hrs 47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Bash          4 hrs 57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
-Other         2 hrs 26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Git Config    1 hr 59 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-CSV           1 hr 21 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-TypeScript    24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Text          21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-HTML          8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+JSON          23 hrs 24 mins        ██████████▓░░░░░░░░░░░░░░   42.89 %
+Python        9 hrs 31 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
+Markdown      7 hrs 53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Bash          4 hrs 53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+Other         3 hrs 17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Git Config    2 hrs 1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+CSV           1 hr 19 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Text          1 hr 16 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+TypeScript    24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+TOML          8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
