@@ -21,7 +21,7 @@ jobs:
           BLOCKS: ⏳
           # last_7_days
           # all_time
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_7_days
           LANG_COUNT: 10
           SHOW_TIME: True
           SHOW_TOTAL: True
