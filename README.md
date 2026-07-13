@@ -1,6 +1,6 @@
-# Hi, I'm **Levi Wang** 👋 — AI Evaluation & LLM Infrastructure Engineer
+# Hi, I'm **Levi Wang** 👋 — LLM Evaluation & Synthetic-Data Infrastructure Engineer
 
-I specialize in AI evaluation, LLM infrastructure, and quality assurance for production-grade systems. Currently focused on end-to-end RAG development, automated evaluation pipelines, and multi-modal model testing to ensure reliable, high-precision AI outcomes.
+I build the infrastructure that makes LLM evaluation trustworthy: multi-agent pipelines that synthesize hard, document-grounded agentic benchmark tasks in expert domains (finance, consulting, law, medicine), the LLM-as-judge and adversarial-QC systems that keep that data valid, and the cloud batch orchestration that benchmarks model × harness combinations at scale.
 
 ---
 
@@ -8,25 +8,27 @@ I specialize in AI evaluation, LLM infrastructure, and quality assurance for pro
 
 **Languages**  
 [![WakaTime](https://wakatime.com/badge/user/deadb2d7-8b4f-41cd-ab96-7a8c925f1e5c.svg)](https://wakatime.com/@Shizue)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
 **AI / LLM**  
-![RAG](https://img.shields.io/badge/RAG-4A90E2?logo=openai&logoColor=white) ![RAGAS](https://img.shields.io/badge/RAGAS-7B61FF?logo=apache&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-0B0B0B?logo=openai&logoColor=white) ![SLM](https://img.shields.io/badge/SLM-111827?logo=ai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-0B0B0B?logo=openai&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-111827?logo=modelcontextprotocol&logoColor=white) ![LLM-as-Judge](https://img.shields.io/badge/LLM--as--Judge-7B61FF) ![Multi-Agent Orchestration](https://img.shields.io/badge/Multi--Agent%20Orchestration-4A90E2)
 
 **Frameworks / Platforms**  
-![Haystack](https://img.shields.io/badge/Haystack-FF5A5F?logo=elastic&logoColor=white) ![Vector DB](https://img.shields.io/badge/Vector%20DB-2F80ED?logo=databricks&logoColor=white)
+![Harbor (eval framework)](https://img.shields.io/badge/Harbor%20eval%20framework-2F80ED) ![Daytona Sandboxes](https://img.shields.io/badge/Daytona%20Sandboxes-0DB7ED) ![Dagster](https://img.shields.io/badge/Dagster-654FF0?logo=dagster&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
 **Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
 ---
 
 ## 🧪 Core Expertise & Projects
 
-- **RAGAS Evaluation Framework Integration** — integrated automated evaluation across end-to-end RAG systems.
-- **Multi-modal AI Testing** — built visual evaluation datasets and benchmarking workflows for VLMs.
-- **Automated Evaluation Pipelines** — designed modular “evals” framework for one-click benchmarking and insights.
-- **Speech & Voice AI QA** — fine-tuned Whisper for ASR optimization and production-grade voice agents.
+- **Benchmark-synthesis pipelines** — solo-architected a greenfield 18-stage multi-agent pipeline that turns expert workspaces into evidence-grounded agentic eval tasks: dual-model evidence extraction with intersection-based confirmation, DAG-structured rubrics (process/outcome typing, dependency gating, hurdle rows), and a blind-then-hinted trial-solve stage — ~28k lines of Python, 362 unit tests, end-to-end within ~27 hours of `git init`.
+- **Measurable difficulty calibration** — steered a 134-question expert benchmark from mean 0.821 into a 0.5–0.7 acceptance band (final 0.648) with a leak-proof isolated eval harness and controlled experiments; "make it harder" as an experiment, not a vibe.
+- **LLM-as-judge QA** — debug the judge itself (false leakage-zeroing, silently dropped rubric fields) and enforce delivery invariants like *reference answers must score full marks*, backed by minimal-change automated repair fleets (200+ workers).
+- **Cloud batch-eval orchestration** — model × harness benchmark matrices on ~70 concurrent cloud sandboxes with load-balanced API routing, semantic + judge-hallucination audit workers, and per-model per-task cost accounting.
+- **Agent-swarm engineering** — ran a 51-agent adversarial code review (6 independent finders → execution-verified findings with per-defect introducing-commit attribution) on a production pipeline fork.
+- **Open source** — built an upstream-ready Stirrup-agent integration for [`harbor-framework/harbor`](https://github.com/harbor-framework/harbor) (runner, provider routing, trajectory capture, unit-tested), rebased cleanly onto upstream v0.17 touching only 2 registry lines.
 
 ---
 
