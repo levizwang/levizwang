@@ -8,13 +8,13 @@ I build the infrastructure that makes LLM evaluation trustworthy: multi-agent pi
 
 **Languages**  
 [![WakaTime](https://wakatime.com/badge/user/deadb2d7-8b4f-41cd-ab96-7a8c925f1e5c.svg)](https://wakatime.com/@Shizue)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
 **AI / LLM**  
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-0B0B0B?logo=openai&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-111827?logo=modelcontextprotocol&logoColor=white) ![LLM-as-Judge](https://img.shields.io/badge/LLM--as--Judge-7B61FF) ![Multi-Agent Orchestration](https://img.shields.io/badge/Multi--Agent%20Orchestration-4A90E2)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-0B0B0B?logo=openai&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-111827?logo=modelcontextprotocol&logoColor=white) ![LLM-as-Judge](https://img.shields.io/badge/LLM--as--Judge-7B61FF) ![Agent-as-Judge](https://img.shields.io/badge/Agent--as--Judge-9B59B6) ![Metric Design](https://img.shields.io/badge/Metric%20Design-16A085) ![Training/Eval Data Synthesis](https://img.shields.io/badge/Training%2FEval%20Data%20Synthesis-E67E22) ![Multi-Agent Orchestration](https://img.shields.io/badge/Multi--Agent%20Orchestration-4A90E2)
 
 **Frameworks / Platforms**  
-![Harbor (eval framework)](https://img.shields.io/badge/Harbor%20eval%20framework-2F80ED) ![Daytona Sandboxes](https://img.shields.io/badge/Daytona%20Sandboxes-0DB7ED) ![Dagster](https://img.shields.io/badge/Dagster-654FF0?logo=dagster&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Harbor (eval framework)](https://img.shields.io/badge/Harbor%20eval%20framework-2F80ED) ![Daytona Sandboxes](https://img.shields.io/badge/Daytona%20Sandboxes-0DB7ED) ![Dagster](https://img.shields.io/badge/Dagster-654FF0?logo=dagster&logoColor=white)
 
 **Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
