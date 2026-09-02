@@ -36,20 +36,19 @@ I build the infrastructure that makes LLM evaluation trustworthy: multi-agent pi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2026 - To: 31 August 2026
+From: 25 August 2026 - To: 01 September 2026
 
-Total Time: 19 hrs 18 mins
+Total Time: 7 hrs 45 mins
 
-Python           12 hrs 54 mins        ██████████████▓░░░░░░░░░░   59.14 %
-Markdown         4 hrs 22 mins         █████░░░░░░░░░░░░░░░░░░░░   20.02 %
-Other            2 hrs 30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-JSON             58 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-JavaScript       33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Bash             17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-JSON-lines       8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Text             1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-YAML             1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-GitIgnore file   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Markdown         4 hrs                 █████████▒░░░░░░░░░░░░░░░   37.94 %
+Python           3 hrs 6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.31 %
+Other            2 hrs 49 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.72 %
+JSON             11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+GitIgnore file   8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+JSON-lines       8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Text             4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Git Config       3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+TOML             2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
