@@ -36,7 +36,7 @@ I build the infrastructure that makes LLM evaluation trustworthy: multi-agent pi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2026 - To: 03 October 2026
+From: 27 September 2026 - To: 04 October 2026
 
 Total Time: 4 hrs 54 mins
 
